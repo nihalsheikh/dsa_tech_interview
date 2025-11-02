@@ -2,11 +2,29 @@
 
 **YouTube Video Time Stamps** <br>
 
-| Time Stamp                | Topic                                                                   |
-| ------------------------- | ----------------------------------------------------------------------- |
-| 00:00:00:00 - 00:00:05:00 | Introduction to Data Structures and Algorithms                          |
-| 00:00:05:00 - 00:00:05:20 | Why learn DSA? What Companies ask/require?                              |
-| 00:00:05:25 - 00:00:05:40 | What's an Optimal Solution? Intro to Time and Space Complexity.         |
-| 00:00:05:40 - 00:00:07:02 | Interview Process. How does companies typically evaluate your solution? |
-| 00:00:07:02 - 00:00:07:30 | How do we judge an Algorithm?                                           |
-| 00:00:07:30 - 00:00:00:00 | Time Complexity                                                         |
+| Time Stamp          | Topic                                                                   |
+| ------------------- | ----------------------------------------------------------------------- |
+| 00:00:00 - 00:05:00 | Introduction to Data Structures and Algorithms                          |
+| 00:05:00 - 00:05:20 | Why learn DSA? What Companies ask/require?                              |
+| 00:05:25 - 00:05:40 | What's an Optimal Solution? Intro to Time and Space Complexity.         |
+| 00:05:40 - 00:07:02 | Interview Process. How does companies typically evaluate your solution? |
+| 00:07:02 - 00:07:30 | How do we judge an Algorithm?                                           |
+| 00:07:30 - 00:18:15 | **Time Complexity**. Different Time Compexities                         |
+| 00:18:15 - 00:19:53 | Why we use Big O Terminology to define Time or Space Complexity?        |
+| 00:19:53 - 00:30:02 | Example Code blocks for Big O                                           |
+| 00:30:02 - 00:32:41 | Big O Comparison Table                                                  |
+| 00:32:41 - 00:35:10 | **Space Complexity**                                                    |
+| 00:35:10 - 00:37:35 | How to get good at DSA?                                                 |
+| 00:37:35 - 00:37:50 | Classification of Data Structure                                        |
+| 00:37:50 - 00:38:06 | **Linear Data Structure**                                               |
+| 00:38:06 - 00:38:28 | Arrays                                                                  |
+| 00:38:28 - 00:39:35 | Linked List                                                             |
+| 00:39:35 - 00:41:03 | Stack & Queue                                                           |
+| 00:41:03 - 00:42:11 | **Non-Linear Data Structure**                                           |
+| 00:42:11 - 00:43:47 | Trees                                                                   |
+| 00:43:47 - 00:45:13 | Graphs                                                                  |
+| 00:45:13 - 00:46:00 | **Hash-Based**                                                          |
+| 00:46:00 - 00:47:57 | Hash Map                                                                |
+| 00:47:57 - 00:48:45 | Hash Set                                                                |
+| 00:48:45 - 00:50:33 | Recap until now: (Comment Pineapple :))) )                              |
+| 00:50:33 - 00:50:20 | Full Course: Array as a Data Structure                                  |
