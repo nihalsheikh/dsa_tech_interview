@@ -31,4 +31,5 @@
 | 00:52:21 - 00:55:03 | Array: Time Complexity and Array Operations                             |
 | 00:55:03 - 00:57:06 | Benefits and Limitations                                                |
 | 00:57:06 - 00:58:16 | When to use Array?                                                      |
-| 00:58:16 - 00:58:16 | Multi-dimensional Array                                                 |
+| 00:58:16 - 01:00:26 | Multi-dimensional Array                                                 |
+| 01:00:26 - 01:00:26 | LEETCODE Problem: Two Sum                                               |
