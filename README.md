@@ -26,5 +26,9 @@
 | 00:45:13 - 00:46:00 | **Hash-Based**                                                          |
 | 00:46:00 - 00:47:57 | Hash Map                                                                |
 | 00:47:57 - 00:48:45 | Hash Set                                                                |
-| 00:48:45 - 00:50:33 | Recap until now: (Comment Pineapple :))) )                              |
-| 00:50:33 - 00:50:20 | Full Course: Array as a Data Structure                                  |
+| 00:48:45 - 00:50:33 | Recap till now: (Comment Pineapple :))) )                               |
+| 00:50:33 - 00:52:21 | Full Course: Array as a Data Structure (intro)                          |
+| 00:52:21 - 00:55:03 | Array: Time Complexity and Array Operations                             |
+| 00:55:03 - 00:57:06 | Benefits and Limitations                                                |
+| 00:57:06 - 00:58:16 | When to use Array?                                                      |
+| 00:58:16 - 00:58:16 | Multi-dimensional Array                                                 |
