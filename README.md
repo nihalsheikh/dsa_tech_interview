@@ -32,4 +32,7 @@
 | 00:55:03 - 00:57:06 | Benefits and Limitations                                                |
 | 00:57:06 - 00:58:16 | When to use Array?                                                      |
 | 00:58:16 - 01:00:26 | Multi-dimensional Array                                                 |
-| 01:00:26 - 01:00:26 | LEETCODE Problem: Two Sum                                               |
+| 01:00:26 - 01:10:23 | LEETCODE Problem 1: Two Sum                                             |
+| 01:10:23 - 01:17:40 | LEETCODE Problem 217: Contains Duplicate                                |
+| 01:17:40 - 01:30:23 | LEETCODE Problem 219: Contains Duplicate II                             |
+| 01:30:23 - 01:30:23 | LEETCODE Problem 242: Valid Anagram                                     |
