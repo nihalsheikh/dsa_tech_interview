@@ -35,4 +35,5 @@
 | 01:00:26 - 01:10:23 | LEETCODE Problem 1: Two Sum                                             |
 | 01:10:23 - 01:17:40 | LEETCODE Problem 217: Contains Duplicate                                |
 | 01:17:40 - 01:30:23 | LEETCODE Problem 219: Contains Duplicate II                             |
-| 01:30:23 - 01:30:23 | LEETCODE Problem 242: Valid Anagram                                     |
+| 01:30:23 - 01:39:30 | LEETCODE Problem 242: Valid Anagram                                     |
+| 01:39:30 - 01:39:30 | LEETCODE Problem 49: Group Anagrams                                     |
