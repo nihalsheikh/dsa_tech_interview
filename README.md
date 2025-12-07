@@ -36,4 +36,7 @@
 | 01:10:23 - 01:17:40 | LEETCODE Problem 217: Contains Duplicate                                |
 | 01:17:40 - 01:30:23 | LEETCODE Problem 219: Contains Duplicate II                             |
 | 01:30:23 - 01:39:30 | LEETCODE Problem 242: Valid Anagram                                     |
-| 01:39:30 - 01:39:30 | LEETCODE Problem 49: Group Anagrams                                     |
+| 01:39:30 - 01:52:21 | LEETCODE Problem 49: Group Anagrams                                     |
+| 01:52:21 - 02:09:13 | LEETCODE Problem 238: Product of an array except self                   |
+| 02:09:13 - 02:19:53 | LEETCODE Problem 347: Top K Frequent Elements                           |
+| 02:19:53 - 02:19:53 | LEETCODE Problem 13: Roman To Integer                                   |
