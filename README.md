@@ -39,4 +39,6 @@
 | 01:39:30 - 01:52:21 | LEETCODE Problem 49: Group Anagrams                                     |
 | 01:52:21 - 02:09:13 | LEETCODE Problem 238: Product of an array except self                   |
 | 02:09:13 - 02:19:53 | LEETCODE Problem 347: Top K Frequent Elements                           |
-| 02:19:53 - 02:19:53 | LEETCODE Problem 13: Roman To Integer                                   |
+| 02:19:53 - 02:30:29 | LEETCODE Problem 13: Roman To Integer                                   |
+| 02:30:29 - 02:49:18 | LEETCODE Problem 953: Verifying an Alien Dictionary                     |
+| 02:49:18 - 02:49:18 | LEETCODE Problem 128: Longest Consecutive Sequence                      |
