@@ -41,4 +41,5 @@
 | 02:09:13 - 02:19:53 | LEETCODE Problem 347: Top K Frequent Elements                           |
 | 02:19:53 - 02:30:29 | LEETCODE Problem 13: Roman To Integer                                   |
 | 02:30:29 - 02:49:18 | LEETCODE Problem 953: Verifying an Alien Dictionary                     |
-| 02:49:18 - 02:49:18 | LEETCODE Problem 128: Longest Consecutive Sequence                      |
+| 02:49:18 - 03:12:53 | LEETCODE Problem 128: Longest Consecutive Sequence                      |
+| 03:12:53 - 03:12:53 | LEETCODE Problem 41: First Missing Positive                             |
